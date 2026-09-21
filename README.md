@@ -1,6 +1,6 @@
 # AWS Certified Developer - Associate (DVA-C02)
 
-Resumo de estudo com conceitos, serviços, comparações, cenários e pegadinhas. A organização segue a ideia do resumo SAA-C03 enviado: explicar o que cada serviço faz, quando utilizá-lo e quais diferenças ajudam a resolver questões.
+Resumo de estudo com conceitos, serviços, comparações, cenários e pegadinhas. A organização segue a ideia: explicar o que cada serviço faz, quando utilizá-lo e quais diferenças ajudam a resolver questões.
 
 **Base do conteúdo:** todas as tarefas dos quatro domínios e os serviços listados no PDF `developer-associate-02 (1).pdf`, complementados com documentação oficial da AWS. Os cenários deste material são exemplos didáticos próprios. A prioridade sugerida reflete a relação dos assuntos com as tarefas do guia; a AWS não publica uma porcentagem de questões para cada serviço.
 

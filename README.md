@@ -4,7 +4,7 @@ Resumo de estudo com conceitos, serviços, comparações, cenários e pegadinhas
 
 **Base do conteúdo:** todas as tarefas dos quatro domínios e os serviços listados no PDF `developer-associate-02.pdf`, complementados com documentação oficial da AWS. Os cenários deste material são exemplos didáticos próprios. A prioridade sugerida reflete a relação dos assuntos com as tarefas do guia; a AWS não publica uma porcentagem de questões para cada serviço.
 
-**Conferência das fontes: 21/09/2026.** Na página atual da certificação, a AWS informa que o último dia para realizar o **DVA-C02 é 01/12/2026** e que as inscrições para o DVA-C03 abrem em 27/10/2026. Este resumo mantém o foco no **DVA-C02 solicitado**. [Página oficial da certificação](https://aws.amazon.com/certification/certified-developer-associate/).
+**Conferência das fontes: 21/09/2026.** Na página atual da certificação, a AWS informa que o último dia para realizar o **DVA-C02 é 01/12/2026** e que as inscrições para o DVA-C03 abrem em 27/10/2026. Este resumo mantém o foco no **DVA-C02**. [Página oficial da certificação](https://aws.amazon.com/certification/certified-developer-associate/).
 
 ## Índice
 

@@ -72,12 +72,6 @@ Exemplo: conhecer a finalidade do SQS é o começo. Também é necessário enten
 
 O guia coloca fora das atribuições esperadas o projeto completo de redes, a administração de sistemas operacionais e o desenho de pipelines do zero. Entretanto, **usar pipelines, ajustar templates, entender permissões e diagnosticar conexões fazem parte do conteúdo**. Não elimine esses assuntos só porque a palavra “arquitetura” aparece na lista de atividades fora do escopo.
 
-### Novidades que o PDF efetivamente inclui
-
-O material enviado menciona Amazon Q Developer, EventBridge, circuit breaker, APIs de terceiros, OpenSearch, autorização refinada, comunicação entre microsserviços, mascaramento de dados, aplicações com vários clientes, AppConfig, testes de eventos e verificações de prontidão.
-
-**Atenção à diferença:** o uso de **Amazon Q Developer para desenvolvimento e geração de testes está nas tarefas do guia**. Já a seção específica de **tópicos emergentes** descreve perguntas de pré-teste sem pontuação. Não conclua que todo assunto relacionado a IA ficará fora da nota.
-
 ---
 
 ## 2. Regions, AZs e disponibilidade
